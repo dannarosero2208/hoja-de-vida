@@ -1,0 +1,17 @@
+body{
+background-color: rgb(30, 3, 80);
+color: rgb(49, 194, 20);
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: rgb(44, 143, 235);
+    font-size:;
+}
+.seccion{
+    background-color: rgb(90, 48, 138);
+}
+#perfil {
+    background-color:rgb(245, 21, 207);
+    color: black;
+}
